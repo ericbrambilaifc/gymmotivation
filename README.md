@@ -45,16 +45,4 @@
   - Bordas arredondadas
   - Destaque especial para o plano principal
 
----
-
-## 🧠 Melhorias em JavaScript
-
-- Feedback visual ao escolher um plano.
-- Atualização automática do ano no rodapé.
-- Botão de copiar WhatsApp com mensagem de confirmação.
-- Scroll suave para o footer (quando ativado via link).
-
----
-
-## 📂 Estrutura de Arquivos
 
